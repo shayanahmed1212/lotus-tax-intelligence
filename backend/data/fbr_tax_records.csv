@@ -1,0 +1,21 @@
+fbr_id,full_name,declared_income_pkr,tax_paid_pkr,filer_status,reported_address,phone_number,fiscal_year
+FBR-00001,Mr. Muhammad Ahmed,350000,0,Non-Filer,House 45 DHA Phase 5 Lahore,0300-1111111,2024-25
+FBR-00002,Ayesha Khan,1500000,150000,Active Filer,Flat 12B Clifton Block 4 Karachi,,2024-25
+FBR-00003,Ch. Bilal Hussain,450000,0,Active Filer,House 112 G-11/2 Islamabad,0321-3333333,2024-25
+FBR-00004,Imran Malik,400000,0,Non-Filer,House 88 F-7/2 Islamabad,0333-4444444,2024-25
+FBR-00005,Fatima Ali,900000,45000,Active Filer,Makan 12 Gulberg III Lahore,0321-9999998,2024-25
+FBR-00006,Usman Qureshi,600000,10000,Active Filer,Plot 54 PECHS Karachi,0300-6666666,2024-25
+FBR-00007,Sana Siddiqui,250000,0,Non-Filer,House 20 Bahria Town Rawalpindi,0315-8988971,2024-25
+FBR-00008,Ali Hassan,800000,30000,Active Filer,House 99 Hayatabad Phase 1 Peshawar,0312-8888888,2024-25
+FBR-00009,Zainab Ahmed,1100000,75000,Active Filer,Kothi 3 Model Town Lahore,0351-7777989,2024-25
+FBR-00010,Faisal Shakeel,550000,5000,Active Filer,House 71 Johar Town Lahore,0345-0101010,2024-25
+FBR-00011,Hamza Khan,500000,0,Late Filer,House 14 DHA Phase 6 Karachi,,2024-25
+FBR-00012,Rabia Nawaz,1300000,110000,Active Filer,House 220 F-8/4 Islamabad,0300-1212121,2024-25
+FBR-00013,Saad Cheema,700000,20000,Active Filer,Plot 89 Wapda Town Lahore,0378-4564677,2024-25
+FBR-00014,Hina Malik,1600000,170000,Active Filer,Flat 404 Clifton Block 4 Karachi,0321-1414141,2024-25
+FBR-00015,Waseem Akhtar,480000,0,Active Filer,House 5 Satellite Town Rawalpindi,,2024-25
+FBR-00016,Dr. Tariq Mahmood,600000,15000,Non-Filer,House 312 Shadman Lahore,0333-1616161,2024-25
+FBR-00017,Amna Bibi,300000,0,Non-Filer,Ghar 4 University Town Peshawar,0300-0004080,2024-25
+FBR-00018,Khalid Shah,1250000,105000,Active Filer,House 18 North Nazimabad Karachi,0300-1818181,2024-25
+FBR-00019,Asif Gujjar,650000,15000,Active Filer,Makan 44 Faisal Town Lahore,0314-8888579,2024-25
+FBR-00020,Nida Rizvi,1400000,130000,Active Filer,Apartment 2 Bath Island Karachi,0321-2020202,2024-25

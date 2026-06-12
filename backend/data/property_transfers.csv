@@ -1,0 +1,8 @@
+registry_no,buyer_name,seller_name,property_address,property_value_pkr,transfer_date,area_marla,property_type,city
+REG-20001,Mohammad Ahmed,Tariq Malik,House 45 DHA Phase 5 Lahore,85000000,2023-05-14,20,House,Lahore
+REG-20002,Imran Malik,Sajid Khan,House 88 F-7/2 Islamabad,110000000,2022-11-02,40,House,Islamabad
+REG-20003,Sana Siddiqui,Kamran Ahmed,House 20 Bahria Town Rawalpindi,48000000,2024-01-15,10,House,Rawalpindi
+REG-20004,Hamza Khan,Zubair Ali,House 14 DHA Phase 6 Karachi,130000000,2023-08-20,20,House,Karachi
+REG-20005,Tariq Mahmood,Arshad Naeem,House 312 Shadman Lahore,55000000,2022-03-10,10,House,Lahore
+REG-20006,Nida Rizvi,Farhan Khan,Apartment 2 Bath Island Karachi,32000000,2024-05-12,5,Apartment,Karachi
+REG-20007,Ayesha Khan,Ghulam Nabi,Flat 12B Clifton Block 4 Karachi,24000000,2021-06-18,6,Apartment,Karachi

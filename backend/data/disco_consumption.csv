@@ -1,0 +1,21 @@
+meter_ref_no,consumer_name,installation_address,avg_monthly_bill_pkr,connection_type,city
+LESCO00140001,Muhammad Ahmed,House 45 DHA Phase 5 Lahore,245000,Residential,Lahore
+KESC00140002,Ayesha Khan,Flat 12B Clifton Block 4 Karachi,28000,Residential,Karachi
+IESCO00140003,Bilal Hussain,House 112 G-11/2 Islamabad,11500,Residential,Islamabad
+IESCO00140004,Imran Malik,House 88 F-7/2 Islamabad,165000,Residential,Islamabad
+LESCO00140005,Fatima Ali,Makan 12 Gulberg III Lahore,22000,Residential,Lahore
+KESC00140006,Usman Qureshi,Plot 54 PECHS Karachi,19500,Residential,Karachi
+IESCO00140007,Sana Siddiqui,House 20 Bahria Town Rawalpindi,95000,Residential,Rawalpindi
+PESCO00140008,Ali Hassan,House 99 Hayatabad Phase 1 Peshawar,24000,Residential,Peshawar
+LESCO00140009,Zainab Ahmed,Kothi 3 Model Town Lahore,31000,Residential,Lahore
+LESCO00140010,Faisal Shakeel,House 71 Johar Town Lahore,14000,Residential,Lahore
+KESC00140011,Hamza Khan,House 14 DHA Phase 6 Karachi,210000,Residential,Karachi
+IESCO00140012,Rabia Nawaz,House 220 F-8/4 Islamabad,38000,Residential,Islamabad
+LESCO00140013,Saad Cheema,Plot 89 Wapda Town Lahore,18500,Residential,Lahore
+KESC00140014,Hina Malik,Flat 404 Clifton Block 4 Karachi,34000,Residential,Karachi
+IESCO00140015,Waseem Akhtar,House 5 Satellite Town Rawalpindi,9000,Residential,Rawalpindi
+LESCO00140016,Tariq Mahmood,House 312 Shadman Lahore,135000,Residential,Lahore
+PESCO00140017,Amna Bibi,Ghar 4 University Town Peshawar,6500,Residential,Peshawar
+KESC00140018,Khalid Shah,House 18 North Nazimabad Karachi,29000,Residential,Karachi
+LESCO00140019,Asif Gujjar,Makan 44 Faisal Town Lahore,16000,Residential,Lahore
+KESC00140020,Nida Rizvi,Apartment 2 Bath Island Karachi,42000,Residential,Karachi
