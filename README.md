@@ -109,3 +109,9 @@ Drop CSVs into `backend/data/` (`fbr_tax_records.csv`, `excise_vehicles.csv`, `d
 ## 💡 Why This Is Interesting
 
 Most portfolio ML projects stop at "train a model, show a metric." This one does the unglamorous 80%: dirty CSVs, inconsistent identifiers, cross-dataset entity matching — then pairs the ML output with real explainability, which is what separates a toy anomaly detector from something a human auditor could actually trust.
+
+---
+
+## 📄 License
+
+MIT © 2026 Shayan Ahmed — see [LICENSE](./LICENSE) for details.
